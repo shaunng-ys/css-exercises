@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+
+.odd {background-color: lightpink; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+#small {font-size: 24px;}
+
+#med_blue {color: blue; font-size: 36px;}
+
+#bold_lgreen {background-color: lightgreen; font-weight: bold;}
